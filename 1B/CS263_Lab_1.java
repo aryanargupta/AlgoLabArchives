@@ -1,3 +1,7 @@
+// Question: Given an unsorted array arr[] of length N and an integer K, 
+// count the occurrences (or frequency) of K in the given array using the Divide and Conquer method. 
+// Note that, minimum length of the array is 100
+
 import java.util.*;
 
 public class CS263_Lab_1 {
