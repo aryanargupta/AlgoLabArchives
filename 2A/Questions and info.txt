@@ -1,13 +1,20 @@
 Question 1 (Lab 0 - not evaluated):
-
+H index(274 leetcode)
 
 Question 2 (Lab 1 - evaluated):
+In this problem, a set of N points are given on the 2D plane. You have to find
+the minimum distance pair of points.
+For example:- P[] = {2, 3}, {12, 30}, {40, 50}, {5, 1}, {12, 10}, {3, 4}.
+Minimum distance is 1.41 between pairs of points {2, 3} and {3, 4}.
+Write a program divide and conquer algorithm with probable complexity order. Write your logic
+as comments in the program for its better understanding and evaluation.
 
 
 Question 3 (Lab 2 - evaluated):
-
+Find no. of inversion pairs
 
 Question 4 (Lab 3 - not evaluated):
 
 
 Question 5 (Lab 4 - evaluated):
+Find no. of rotations and search the query in rotated array

@@ -1,7 +1,11 @@
 Question 1 (Lab 0 - not evaluated):
-
+Wiggle Sort
 
 Question 2 (Lab 1 - evaluated):
+An array A[1 . . . n] is said to have a majority element if more than half of its
+entries are the same. Given an array, design an divide and conquer algorithm to tell whether the
+array has a majority element, and, if so, to find that element. Write your logic as comments in
+the program for its better understanding and evaluation
 
 
 Question 3 (Lab 2 - evaluated):
