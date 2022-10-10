@@ -1,13 +1,15 @@
 Question 1 (Lab 0 - not evaluated):
-
+Pancake Sorting
 
 Question 2 (Lab 1 - evaluated):
+Given an unsorted array arr[] of length N and an integer K, count the occurrences (or frequency) of K in the given array using the Divide and Conquer method. Note that, minimum length of the array is 100
 
 
 Question 3 (Lab 2 - evaluated):
-
+Implement quick Sort using 2 pivot elements
 
 Question 4 (Lab 3 - not evaluated):
 
 
 Question 5 (Lab 4 - evaluated):
+Longest Palindromic Subsequence
