@@ -11,10 +11,13 @@ as comments in the program for its better understanding and evaluation.
 
 
 Question 3 (Lab 2 - evaluated):
-Find no. of inversion pairs
+Find no. of inversion pairs in an array
 
 Question 4 (Lab 3 - not evaluated):
-
+Find no. of rotations and search the query in rotated array
 
 Question 5 (Lab 4 - evaluated):
-Find no. of rotations and search the query in rotated array
+Given a matrix find the maximum path sum in matrix, 
+where you are allowed to move only down or right. 
+You can start from any element in the matrix 
+but the ending point should be the bottom-right element of the matrix.
