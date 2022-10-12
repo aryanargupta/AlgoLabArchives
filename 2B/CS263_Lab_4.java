@@ -1,3 +1,5 @@
+// Question: Animal Candy Problem
+
 import java.util.Scanner;
 
 class solution {

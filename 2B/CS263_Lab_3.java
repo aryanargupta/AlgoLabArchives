@@ -1,3 +1,5 @@
+// Question: Check if the input array is bitonic or not. If it is find the minimum element from the bitonic array.
+
 import java.util.*;
 
 class bitonicArr {

@@ -1,3 +1,5 @@
+// Question: A killer with specified strength can kill how many people?
+
 import java.util.Scanner;
 
 public class solution {

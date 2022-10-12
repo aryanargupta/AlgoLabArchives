@@ -9,9 +9,10 @@ the program for its better understanding and evaluation
 
 
 Question 3 (Lab 2 - evaluated):
-
+A killer with specified strength can kill how many people?
 
 Question 4 (Lab 3 - not evaluated):
-
+Check if the input array is bitonic or not. If it is find the minimum element from the bitonic array
 
 Question 5 (Lab 4 - evaluated):
+Animal Candy Problem
