@@ -13,3 +13,10 @@ Question 4 (Lab 3 - not evaluated):
 
 Question 5 (Lab 4 - evaluated):
 Longest Palindromic Subsequence
+
+
+Question 6 (Lab 5 - evaluated):
+Use greedy approach to find the minimum number of subarrays in an array such that sum of all subarrays is >=0 and all positive numbers are included in the subarrays. You can exclude any negative number in the final subarrays. For example:
+
+Array = {1, 2, 3, -4,-5, 8, -6, 7, 9, 1, -100, -99, 1}
+Minimum subarray count = 2 (Subarrays: {1,2,3-4,-5,8,-6,7,9,1}, {1}) -> (Excluded -99 and -100 from final answer)
