@@ -17,3 +17,14 @@ Find total number of local maximae in a given array and print them all
 Question 5 (Lab 4 - evaluated):
 Print all subsets from a given array of size n, whose 
 sum is exactly equal to a given target sum k
+
+Question 6 (Lab 5 - evaluated):
+For a given n, find the total number of operations required to reach n in minimum steps such that, starting form 1, at any point,
+  
+                            increment(x = x+1)
+                           /
+                          x
+                           \
+                            double(x = x*2)
+        
+ Here, x goes from 1 to n.
