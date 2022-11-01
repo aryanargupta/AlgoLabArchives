@@ -1,3 +1,6 @@
+// Recursive Approach
+// Time Complexity: O(n)
+
 package PRACTICE_QUESTIONS;
 public class MINIMUM_POSITIVE_INTERVAL_RECURRSION {
 
