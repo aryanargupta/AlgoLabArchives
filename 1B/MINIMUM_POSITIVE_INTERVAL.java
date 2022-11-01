@@ -1,8 +1,11 @@
+// Greedy Approach
+// Time Complexity: O(n^2)
+
 package CS263_ASSIGNMENT;
 import java.util.*;
 import java.util.ArrayList;
 
-public class MINIMUM_POSITIVE_INTERVAL {
+public class CS263_Lab_5_greedy {
     public static int POSITIVE_INTERVAL(int[] array) {
         int l = array.length; //length of given array
         ArrayList<Integer> index = new ArrayList<>(); 
