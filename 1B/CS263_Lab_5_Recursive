@@ -1,8 +1,7 @@
 // Recursive Approach
 // Time Complexity: O(n)
 
-package PRACTICE_QUESTIONS;
-public class MINIMUM_POSITIVE_INTERVAL_RECURRSION {
+CS263_Lab_5_recursive {
 
     public static int NEGATIVE_COUNTER(int[] array, int low, int high) {
         int cnt = 0;
