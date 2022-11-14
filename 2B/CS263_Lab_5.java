@@ -242,5 +242,3 @@ class CS263_Lab_5 {
     print(n);
   }
 }
-// This code is contributed by
-// sanjeev2552
