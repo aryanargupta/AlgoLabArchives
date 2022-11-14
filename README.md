@@ -5,7 +5,7 @@ Contains the codes of all labs for reference purposes for 2021 batch
 
 | Labs | [1A](https://github.com/aryanargupta/AlgoLabArchives/blob/main/1A/Questions%20and%20Info.txt) | [1B](https://github.com/aryanargupta/AlgoLabArchives/blob/main/1B/Questions%20and%20info.txt) | [2A](https://github.com/aryanargupta/AlgoLabArchives/blob/main/2A/Questions%20and%20info.txt) | [2B](https://github.com/aryanargupta/AlgoLabArchives/blob/main/2B/Questions%20and%20info.txt) |
 |:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|
-| Lab-0* | [:white_check_mark:](1A/CS263_Lab_0.java) | | | [:white_check_mark:](2B/CS263_Lab_0.java) |
+| Lab-0* | [:white_check_mark:](1A/CS263_Lab_0.java) | [:white_check_mark:](1B/PANCAKEFLIP.java) | | [:white_check_mark:](2B/CS263_Lab_0.java) |
 | Lab-1 | [:white_check_mark:](1A/CS263_Lab_1.java) | [:white_check_mark:](1B/CS263_Lab_1.java) | [:white_check_mark:](2A/CS263_Lab_1.java) | [:white_check_mark:](2B/CS263_Lab_1.java) |
 | Lab-2 | [:white_check_mark:](1A/CS263_Lab_2.java) | [:white_check_mark:](1B/CS263_Lab_2.java) | [:white_check_mark:](2A/CS263_Lab_2.java) | [:white_check_mark:](2B/CS263_Lab_2.java) |
 | Lab-3* | [:white_check_mark:](1A/CS263_Lab_3.java) | | | [:white_check_mark:](2B/CS263_Lab_3.java) |
