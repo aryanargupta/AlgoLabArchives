@@ -10,7 +10,8 @@ Contains the codes of all labs for reference purposes for 2021 batch
 | Lab-2 | [:white_check_mark:](1A/CS263_Lab_2.java) | [:white_check_mark:](1B/CS263_Lab_2.java) | [:white_check_mark:](2A/CS263_Lab_2.java) | [:white_check_mark:](2B/CS263_Lab_2.java) |
 | Lab-3* | [:white_check_mark:](1A/CS263_Lab_3.java) | | | [:white_check_mark:](2B/CS263_Lab_3.java) |
 | Lab-4 | [:white_check_mark:](1A/CS263_Lab_4.java) | [:white_check_mark:](1B/CS263_Lab_4.java) | [:white_check_mark:](2A/CS263_Lab_4.java) | [:white_check_mark:](2B/CS263_Lab_4.java) |
-| Lab-5 | [:white_check_mark:](1A/CS263_Lab_5.java) | | | |
+| Lab-5 | [:white_check_mark:](1A/CS263_Lab_5.java) | [:white_check_mark:](1B/CS263_Lab_5.java) | | [:white_check_mark:](2B/CS263_Lab_5.java) |
+| Lab-6* | | | | |
 
 Note: Starred (*) labs are the ones that weren't evaluated, hence, their codes may or may not be available at any point of time, but the non-starred ones have all of their codes available.
 

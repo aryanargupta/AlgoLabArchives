@@ -16,3 +16,6 @@ Check if the input array is bitonic or not. If it is find the minimum element fr
 
 Question 5 (Lab 4 - evaluated):
 Animal Candy Problem
+
+Question 6 (Lab 5 - evaluated):
+Smallest Job First
