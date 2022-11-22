@@ -19,3 +19,26 @@ Animal Candy Problem
 
 Question 6 (Lab 5 - evaluated):
 Smallest Job First
+
+
+Question 7 (Lab 6 - not evaluated):
+Design an algorithm to decide whether given undirected graph G(V,E) contains a cycle of
+length 4.The Running Time Of the algorithm should be O(|V|^3).
+
+
+Question 8 (Lab 7 - not evaluated):
+Professor Ma.L. (Math Lover) loves everything related to prime numbers. 
+Remember that a prime is a positive number bigger than one and only divisible 
+by 1 and itself. He is now working on a property of a set of primes called the 
+jumping champion. An integer N is called the “jumping champion” if it is the most 
+frequently occurring difference between consecutive primes. 
+
+For example, consider the consecutive primes 2 3 5 7 11. The differences between primes are 1 2 2 4. 
+Therefore, for this set of primes, the jumping champion is exactly 2 (occurring two times).
+
+He would really like to know for any set of primes what is
+their corresponding jumping champion. Could you help him? 
+
+Your task is to write a program that, given a lower and an upper bound, calculates the jumping
+champion of all the primes numbers that are in the defined limits (the upper and lower bound are
+considered themselves to be inside the limit).
