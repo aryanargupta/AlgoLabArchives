@@ -20,3 +20,30 @@ Use greedy approach to find the minimum number of subarrays in an array such tha
 
 Array = {1, 2, 3, -4,-5, 8, -6, 7, 9, 1, -100, -99, 1}
 Minimum subarray count = 2 (Subarrays: {1,2,3-4,-5,8,-6,7,9,1}, {1}) -> (Excluded -99 and -100 from final answer)
+
+
+Question 7 (Lab 6 - not evaluated):
+You are given a binary tree in which each node contains a value. Design an algorithm to
+print all paths which sum up to that value. Note that it can be any path in the tree - it does not
+have to start at the root.
+
+
+Question 8 (Lab 7 - not evaluated):
+Mr. G. works as a tourist guide. His current assignment is to take some tourists from one city to
+another. Some two-way roads connect the cities. For each pair of neighboring cities there is a bus
+service that runs only between those two cities and uses the road that directly connects them. Each
+bus service has a limit on the maximum number of passengers it can carry. Mr. G. has a map showing
+the cities and the roads connecting them. He also has the information regarding each bus service. He
+understands that it may not always be possible for him to take all the tourists to the destination city
+in a single trip. For example, consider the following road map of 7 cities. The edges connecting the
+cities represent the roads and the number written on each edge indicates the passenger limit of the bus
+service that runs on that road.
+
+Now, if he wants to take 99 tourists from city 1 to city 7, he will require at least 5 trips and the
+route he should take is : 1 - 2 - 4 - 7.
+But, Mr. G. finds it difficult to find the best route all by himself so that he may be able to take all
+the tourists to the destination city in minimum number of trips. So, he seeks your help.
+
+
+Question 9 (Lab 8 - evaluated):
+Implement Bellman Ford Algorithm
