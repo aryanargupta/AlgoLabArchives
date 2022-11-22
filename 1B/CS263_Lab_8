@@ -1,6 +1,8 @@
-package CS263_ASSIGNMENT;
+// BELLMAN FORD ALGORITHM
+
 import java.util.*;
-public class BELLMAN_FORD_ALGORITHM {
+
+public class CS263_Lab_8 {
     public static void RELAX(int u, int v, int[] distance, int[] precedance, int[][] weight) {
         if(distance[v] > (distance[u] + weight[u][v])) {
             distance[v] = distance[u] + weight[u][v];
