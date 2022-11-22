@@ -21,3 +21,29 @@ Given a matrix find the maximum path sum in matrix,
 where you are allowed to move only down or right. 
 You can start from any element in the matrix 
 but the ending point should be the bottom-right element of the matrix.
+
+
+Question 6 (Lab 5 - evaluated):
+There is a car starting from initial station marked as zero with full fuel tank, the distance a full capacity of fuel tank can cover is given, Distance mark of every fuel station is also given. You can fill the tank full in the fuel stations. You have to calculate if it will reach the end point before running out of fuel in minimum stoppages in the route.
+
+
+Question 7 (Lab 6 - not evaluated):
+ Write an algorithm to determine whether a graph G is bipartite. If G is bipartite, your
+algorithm should obtain a partitioning of the vertices into two disjoint sets. Show That if G is
+represented by its adjacency lists,then this algorithm can be made to work in time O(n+e),where
+n = |V| and e= |E|.
+
+
+Question 8 (Lab 7 - not evaluated):
+In this problem we will be considering a game played with four wheels. Digits ranging from 0 to 9
+are printed consecutively (clockwise) on the periphery of each wheel. The topmost digits of the wheels
+form a four-digit integer. Each wheel has two buttons associated with it. Pressing the button marked with 
+a left arrow rotates the wheel one digit in the clockwise direction and pressing the one marked with the 
+right arrow rotates it by one digit in the opposite direction.
+
+The game starts with an initial configuration of the wheels. Say, in the initial configuration the
+topmost digits form the integer S1S2S3S4. You will be given some (say, n) forbidden configurations
+Fi1 Fi2 Fi3 Fi4
+(1 ≤ i ≤ n) and a target configuration T1T2T3T4. Your job will be to write a program that
+can calculate the minimum number of button presses required to transform the initial configuration to
+the target configuration by never passing through a forbidden one. 
