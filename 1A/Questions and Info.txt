@@ -28,3 +28,28 @@ For a given n, find the total number of operations required to reach n in minimu
                             double(x = x*2)
         
  Here, x goes from 1 to n.
+ 
+ 
+Question 7 (Lab 6 - not evaluated):
+ You have two very large binary trees: T1, with millions of nodes, and T2, with hundreds of
+nodes. Create an algorithm to decide if T2 is a subtree of T1.
+
+
+Question 8 (Lab 7 - not evaluated):
+Given an m×n matrix of integers, you are to write a program that computes a path
+of minimal weight. A path starts anywhere in column 1 (the first column) and consists
+of a sequence of steps terminating in column n (the last column). A step consists of
+traveling from column i to column i + 1 in an adjacent (horizontal or diagonal) row.
+The first and last rows (rows 1 and m) of a matrix are considered adjacent, i.e., the
+matrix “wraps” so that it represents a horizontal cylinder. Legal steps are illustrated below:
+
+     (x+1,y+1)
+    /
+(x,y)-(x+1,y)
+    \
+     (x+1,y-1)
+
+The weight of a path is the sum of the integers in each of the n cells of the matrix that are visited.
+
+
+Question 9 (Lab 8 - evaluated):
